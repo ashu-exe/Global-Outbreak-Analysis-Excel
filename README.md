@@ -19,7 +19,7 @@ Analyzed WHO's global disease outbreak data using **Excel** pivot tables, slicer
 - Outbreaks spiked in 2009 (H1N1) and 2020–2022 (COVID-19)
 - Trendline shows increasing outbreak frequency
 
-![Year-Wise Trend](screenshots/Screenshot%20192247.png)
+![Year-Wise Trend](screenshots/Screenshot_2025-06-08_192247.png)
 
 ---
 
