@@ -27,7 +27,7 @@ Analyzed WHO's global disease outbreak data using **Excel** pivot tables, slicer
 - Africa has the highest overall outbreak count (~37%)
 - Asia & Americas show strong rising trends
 
-![Continent Trends](screenshots/Screenshot%20200009.png)
+![Continent Trends](screenshots/continent_trend.png)
 
 ---
 
@@ -35,7 +35,7 @@ Analyzed WHO's global disease outbreak data using **Excel** pivot tables, slicer
 - Top 10 countries include DRC, Liberia, Cambodia
 - Major nations like India & USA not in the top range
 
-![Country Chart](screenshots/Screenshot%20201056.png)
+![Country Chart](screenshots/country_trend.png)
 
 ---
 
@@ -43,7 +43,7 @@ Analyzed WHO's global disease outbreak data using **Excel** pivot tables, slicer
 - Influenza & COVID-19 dominate total cases
 - Pareto chart shows top diseases represent most outbreaks
 
-![Pareto Chart](screenshots/Screenshot%20201841.png)
+![Pareto Chart](screenshots/disease_pareto_chart.png)
 
 ---
 
