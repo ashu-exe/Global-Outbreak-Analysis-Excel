@@ -32,7 +32,7 @@ Analyzed WHO's global disease outbreak data using **Excel** pivot tables, slicer
 ---
 
 ### 🌐 Country-Level Analysis
-- Top 10 countries include DRC, Liberia, Cambodia
+- Top 10 countries include DRC, Somalia, South Africa
 - Major nations like India & USA not in the top range
 
 ![Country Chart](screenshots/country_trend.png)
